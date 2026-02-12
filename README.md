@@ -57,6 +57,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 
 | Project | Language | Stars | Description |
 |---------|----------|-------|-------------|
+| [**Tiny Stats**](https://github.com/CoolDotty/tiny-stats) | Node.js | | Streams server stats over websockets |
 | [**NeverWake**](https://github.com/CoolDotty/NeverWake) | Batchfile | ⭐ 13 | Stop Windows from randomly waking your laptop |
 | [**bigLAUNCHER**](https://github.com/bigTEAM-gg/bigLAUNCHER) | HTML | ⭐ 3 | Multi-game launcher & idle detector |
 | [**bigger-discord**](https://github.com/bigTEAM-gg/bigger-discord) | JavaScript | ⭐ 1 | A sensible Discord bot |
@@ -67,7 +68,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 |---------|----------|-------|-------------|
 | [**tor-without-tor**](https://github.com/CoolDotty/tor-without-tor) | Config | ⭐ 8 | Privacy-concerned browsing without the latency |
 | [**CounterMail-Native**](https://github.com/CoolDotty/CounterMail-Native) | Electron | ⭐ 1 | Native Electron wrapper for CounterMail |
-| [**arduino-password-safe**](https://github.com/CoolDotty/arduino-password-safe) | Arduino | Buttonless hardware password manager |
+| [**arduino-password-safe**](https://github.com/CoolDotty/arduino-password-safe) | Arduino | | Buttonless hardware password manager |
 
 ---
 
