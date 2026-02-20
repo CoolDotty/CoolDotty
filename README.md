@@ -47,6 +47,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 | Game | Genre | Description |
 |------|-------|-------------|
 | [**Shader-Stacker**](https://github.com/CoolDotty/Shader-Stacker) | ⭐ 69 | GPU-accelerated sprite stacking for Godot Engine |
+| [**Resume Thing**](https://github.com/CoolDotty/resume-thing) | - | Json-based resume maker. Optimized for ATS |
 | [**FollowParent**](https://github.com/CoolDotty/FollowParent) | ⭐ 7 | Node that tweens inherited transforms |
 | [**death-timer**](https://github.com/CoolDotty/death-timer) | - | Deadline countdown in the Godot Editor |
 
@@ -68,7 +69,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 |---------|----------|-------|-------------|
 | [**tor-without-tor**](https://github.com/CoolDotty/tor-without-tor) | Config | ⭐ 8 | Privacy-concerned browsing without the latency |
 | [**CounterMail-Native**](https://github.com/CoolDotty/CounterMail-Native) | Electron | ⭐ 1 | Native Electron wrapper for CounterMail |
-| [**arduino-password-safe**](https://github.com/CoolDotty/arduino-password-safe) | Arduino | | Buttonless hardware password manager |
+| [**arduino-password-safe**](https://github.com/CoolDotty/arduino-password-safe) | Arduino | - | Buttonless hardware password manager |
 
 ---
 
