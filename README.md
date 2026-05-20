@@ -31,6 +31,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 
 | Game | Genre | Description |
 |------|-------|-------------|
+| [**Mermakin' It**](https://github.com/CoolDotty/mermakin-it) | Cooking | You are a humble mermaid chef. Above you, the great Fish God stirs. Hungry, grumpy, and easily displeased. |
 | [**Date or Mate**](https://cooldotty.itch.io/date-or-mate) | Dating Sim | Fall in love on the board, where every move wins a heart, but only the pieces left standing decide who you'll love forever |
 | [**Pop Her Bubble!**](https://cooldotty.itch.io/pop-her-bubble) | Interactive Fiction | Transpunk Mosh Cats. *CW: Loneliness, Drugs, Grooming, and Puns* |
 | [**Arktos' Pass**](https://cooldotty.itch.io/arktos-pass) | Adventure | The woods are claustrophobic, but a closer look is your only chance to locate threats |
@@ -42,7 +43,6 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 | [**Octo Arms Deliverance**](https://cooldotty.itch.io/octo-arms-deliverance) | Action | Deliver packages to space cowboys. They tip with guns! |
 | [**Big Zeal Adventure 2020**](https://cooldotty.itch.io/big-zeal-adventure-2020) | Fighting | Use both your hands. Maybe you're too old for this... |
 | [**Last Mag: Make it count**](https://cooldotty.itch.io/last-mag) | Action | Everyone has a gun, but there's only one magazine to shoot from |
-| [**Mermakin' It**](https://github.com/CoolDotty/mermakin-it) | Cooking | You are a humble mermaid chef. Above you, the great Fish God stirs. Hungry, grumpy, and easily displeased. |
 
 ### Tools
 | Game | Genre | Description |
