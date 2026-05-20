@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dot%20Phillips&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Game%20Dev%20|%20Privacy%20Advocate&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dot%20Phillips&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Game%20Dev%20%7C%20Creative%20Coder%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descAlign=50)
 
 [![Website](https://img.shields.io/badge/x3c.ca-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://x3c.ca)
 [![GitHub followers](https://img.shields.io/github/followers/CoolDotty?style=for-the-badge&logo=github&color=181717)](https://github.com/CoolDotty)
@@ -50,6 +50,9 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 | [**Resume Thing**](https://github.com/CoolDotty/resume-thing) | - | Json-based resume maker. Optimized for ATS |
 | [**FollowParent**](https://github.com/CoolDotty/FollowParent) | ⭐ 7 | Node that tweens inherited transforms |
 | [**death-timer**](https://github.com/CoolDotty/death-timer) | - | Deadline countdown in the Godot Editor |
+| [**omen-helper**](https://github.com/CoolDotty/omen-helper) | - | Helper utilities for Omen integration |
+| [**mermakin-it**](https://github.com/CoolDotty/mermakin-it) | - | Mermaid diagram generation tools |
+| [**ersa-iac**](https://github.com/CoolDotty/ersa-iac) | - | Infrastructure as Code for ERSA |
 
 ---
 
