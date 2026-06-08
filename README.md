@@ -37,7 +37,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 | [**Arktos' Pass**](https://cooldotty.itch.io/arktos-pass) | Adventure | The woods are claustrophobic, but a closer look is your only chance to locate threats |
 | [**MEATBOAT**](https://cooldotty.itch.io/meatboat) | Adventure | We expect your arrival |
 | [**Can We Keep It?**](https://cooldotty.itch.io/can-we-keep-it) | Platformer | Find Tetris-Shaped Pets and Hide Them From Mom! *(Global Game Jam 2024)* |
-| [**Cosmic Cruiser Repair**](https://vishnu-suresh.itch.io/cosmic-cruiser-repair) | Simulation / Puzzle | 2D isometric space mechanic sim — use the right tool to fix quirky vehicles before time runs out! |
+| [**Cosmic Cruiser Repair**](https://vishnu-suresh.itch.io/cosmic-cruiser-repair) | Simulation / Puzzle | 2D isometric space mechanic sim! Use the right tool to fix quirky vehicles before time runs out! |
 | [**The Wreckening**](https://cooldotty.itch.io/the-wreckening) | Action | The safeguards are only guidelines |
 | [**Organic Growth**](https://cooldotty.itch.io/organic-growth) | Puzzle | Advertise your botanicals with this multiplatform social media campaign *(Major Jam 6)* |
 | [**The Not-so Big Escape**](https://cooldotty.itch.io/the-not-so-big-escape) | Adventure | Tiny elephant big mouse action! |
