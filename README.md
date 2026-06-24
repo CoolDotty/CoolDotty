@@ -1,110 +1,79 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dot%20Phillips&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Game%20Dev%20%7C%20Creative%20Coder%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descAlign=50)
+![Dot Phillips / CoolDotty](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dot%20Phillips&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Games%20%7C%20Godot%20Tools%20%7C%20Automation%20%7C%20Community&descAlignY=68&descAlign=50)
 
-[![Website](https://img.shields.io/badge/x3c.ca-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://x3c.ca)
-[![GitHub followers](https://img.shields.io/github/followers/CoolDotty?style=for-the-badge&logo=github&color=181717)](https://github.com/CoolDotty)
-[![bigTEAM-gg](https://img.shields.io/badge/bigTEAM.gg-4285F4?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/bigTEAM-gg)
+[![Portfolio](https://img.shields.io/badge/x3c.ca-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://x3c.ca)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://cooldotty.itch.io/)
+[![Game Sewer](https://img.shields.io/badge/Game%20Sewer-111111?style=for-the-badge&logo=gamedeveloper&logoColor=white)](https://gamesewer.com)
+[![bigTEAM](https://img.shields.io/badge/bigTEAM.gg-4285F4?style=for-the-badge&logo=godot-engine&logoColor=white)](https://bigteam.gg)
 
 </div>
 
----
+I make videogames, Godot tools, web apps, and practical automation software.
 
-## 🌐 Sites
+I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](https://gamesewer.com), and tend to ship things that are either playable, useful, or a little strange.
 
+## Current Focus
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**x3c.ca**](https://x3c.ca) | Astro | Personal portfolio site |
-| [**GameSewer.com**](https://github.com/CoolDotty/GameSewer.com) | NextJS | Site for Vancouver Game Sewer |
-| [**bigTEAM.gg**](https://github.com/bigTEAM-gg/bigTEAM.gg) | React | Official team homepage |
-| [**FriendsVsFriends.help**](https://github.com/CoolDotty/FriendsVsFriends.help) | React | Interactive deck builder for Friends vs Friends |
+- Building small games and game-jam experiments in Godot.
+- Organizing Vancouver indie game community projects through [Game Sewer](https://gamesewer.com).
+- Maintaining tools for game developers, browser communities, and local workflow automation.
+- Turning awkward integrations into usable software, especially around n8n, QuickBooks Desktop, spreadsheets, and self-hosted utilities.
 
----
+## Featured Work
 
-## 🎮 Game Dev
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | GPU-accelerated sprite stacking for Godot, also listed in the [Godot Asset Library](https://godotassetlibrary.com/asset/X9HvCD/shader-stacker). | Godot, GDScript |
+| [Date or Mate](https://cooldotty.itch.io/date-or-mate) | A chess dating sim made for [Global Game Jam 2026](https://globalgamejam.org/games/2026/date-or-mate-4). | Godot, HTML5 |
+| [Friends vs Friends Deck Builder](https://friendsvsfriends.help/) | Browser deck builder for the card-based arena shooter Friends vs Friends. | React, JavaScript |
+| [GameSewer.com](https://gamesewer.com) | Vancouver indie game showcase and community site I organize. | Astro |
+| [n8n QuickBooks Web Connector](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | Community node for connecting QuickBooks Desktop Web Connector workflows to n8n. | TypeScript, n8n |
+| [n8n XLSX to PDF](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | Converts spreadsheet binary attachments to PDFs through LibreOffice inside n8n. | TypeScript, LibreOffice |
 
-All playable on [itch.io](https://cooldotty.itch.io/)
+## Playable Things
 
-### Games
+| Game | Hook |
+| --- | --- |
+| [Mermakin' It](https://cooldotty.itch.io/mermakin-it) | Mermaid cooking for a hungry, grumpy Fish God. |
+| [Date or Mate](https://cooldotty.itch.io/date-or-mate) | Win at chess while figuring out who you actually want to date. |
+| [Pop Her Bubble!](https://cooldotty.itch.io/pop-her-bubble) | Transpunk mosh cats, loneliness, drugs, grooming, and puns. |
+| [MEATBOAT](https://bigteamvg.itch.io/meatboat) | We expect your arrival. |
+| [The Wreckening](https://bigteamvg.itch.io/the-wreckening) | Your AI has gone haywire, but the safety guards still matter. |
+| [Organic Growth](https://bigteamvg.itch.io/organic-growth) | A social media campaign for suspicious botanicals. |
+| [Can We Keep It?](https://bigteamvg.itch.io/can-we-keep-it) | Find Tetris-shaped pets and hide them from Mom. |
 
-| Game | Genre | Description |
-|------|-------|-------------|
-| [**Mermakin' It**](https://github.com/CoolDotty/mermakin-it) | Cooking | You are a humble mermaid chef. Above you, the great Fish God stirs. Hungry, grumpy, and easily displeased. |
-| [**Date or Mate**](https://cooldotty.itch.io/date-or-mate) | Dating Sim | Fall in love on the board, where every move wins a heart, but only the pieces left standing decide who you'll love forever |
-| [**Pop Her Bubble!**](https://cooldotty.itch.io/pop-her-bubble) | Interactive Fiction | Transpunk Mosh Cats. *CW: Loneliness, Drugs, Grooming, and Puns* |
-| [**Arktos' Pass**](https://cooldotty.itch.io/arktos-pass) | Adventure | The woods are claustrophobic, but a closer look is your only chance to locate threats |
-| [**MEATBOAT**](https://cooldotty.itch.io/meatboat) | Adventure | We expect your arrival |
-| [**Can We Keep It?**](https://cooldotty.itch.io/can-we-keep-it) | Platformer | Find Tetris-Shaped Pets and Hide Them From Mom! *(Global Game Jam 2024)* |
-| [**Cosmic Cruiser Repair**](https://vishnu-suresh.itch.io/cosmic-cruiser-repair) | Simulation / Puzzle | 2D isometric space mechanic sim! Use the right tool to fix quirky vehicles before time runs out! |
-| [**The Wreckening**](https://cooldotty.itch.io/the-wreckening) | Action | The safeguards are only guidelines |
-| [**Organic Growth**](https://cooldotty.itch.io/organic-growth) | Puzzle | Advertise your botanicals with this multiplatform social media campaign *(Major Jam 6)* |
-| [**The Not-so Big Escape**](https://cooldotty.itch.io/the-not-so-big-escape) | Adventure | Tiny elephant big mouse action! |
-| [**Octo Arms Deliverance**](https://cooldotty.itch.io/octo-arms-deliverance) | Action | Deliver packages to space cowboys. They tip with guns! |
-| [**Big Zeal Adventure 2020**](https://cooldotty.itch.io/big-zeal-adventure-2020) | Fighting | Use both your hands. Maybe you're too old for this... |
-| [**Last Mag: Make it count**](https://cooldotty.itch.io/last-mag) | Action | Everyone has a gun, but there's only one magazine to shoot from |
+## Tools And Utilities
 
-### Tools
-| Game | Genre | Description |
-|------|-------|-------------|
-| [**Shader-Stacker**](https://github.com/CoolDotty/Shader-Stacker) | ⭐ 69 | GPU-accelerated sprite stacking for Godot Engine |
-| [**Resume Thing**](https://github.com/CoolDotty/resume-thing) | - | Json-based resume maker. Optimized for ATS |
-| [**FollowParent**](https://github.com/CoolDotty/FollowParent) | ⭐ 7 | Node that tweens inherited transforms |
-| [**death-timer**](https://github.com/CoolDotty/death-timer) | - | Deadline countdown in the Godot Editor |
-| [**omen-helper**](https://github.com/CoolDotty/omen-helper) | - | A lightweight OMEN Gaming Hub alternative |
-| [**ersa-iac**](https://github.com/CoolDotty/ersa-iac) | - | Infrastructure as Code for whatbox.ca |
+| Project | Use |
+| --- | --- |
+| [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | Sprite-stacking toolkit for Godot. |
+| [FollowParent](https://github.com/CoolDotty/FollowParent) | Godot node that tweens inherited transforms. |
+| [NeverWake](https://github.com/CoolDotty/NeverWake) | Stops Windows laptops from waking themselves unexpectedly. |
+| [tor-without-tor](https://github.com/CoolDotty/tor-without-tor) | Privacy-concerned browser configuration without Tor latency. |
+| [resume-thing](https://github.com/CoolDotty/resume-thing) | JSON Resume to PDF builder. |
+| [tiny-stats](https://github.com/CoolDotty/tiny-stats) | Lightweight server stats over websockets. |
 
----
+## Community
 
+- Co-director of [bigTEAM](https://bigteam.gg), a group of friends-of-friends making videogames.
+- Organizer of [Game Sewer](https://gamesewer.com), a Vancouver indie game showcase.
+- Regular game-jam collaborator, including [Global Game Jam](https://globalgamejam.org/games/2026/date-or-mate-4), [Major Jam](https://itch.io/jam/major-jam-6-life/rate/2197190), and themed itch.io jams.
 
-### Utilities & Automation
+## Tech I Reach For
 
-| Project | Language | Stars | Description |
-|---------|----------|-------|-------------|
-| [**qbwc-to-n8n-bridge**](https://github.com/CoolDotty/qbwc-to-n8n-bridge) | TypeScript | | Production bridge between QuickBooks Web Connector and n8n |
-| [**n8n-QuickBooks-Web-Connect**](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | TypeScript | | n8n community node for QuickBooks Desktop Web Connector integration |
-| [**n8n-nodes-xlsx-to-pdf**](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | TypeScript | | n8n community node for spreadsheet-to-PDF conversion via LibreOffice |
-| [**Tiny Stats**](https://github.com/CoolDotty/tiny-stats) | Node.js | | Streams server stats over websockets |
-| [**NeverWake**](https://github.com/CoolDotty/NeverWake) | Batchfile | ⭐ 13 | Stop Windows from randomly waking your laptop |
-| [**bigLAUNCHER**](https://github.com/bigTEAM-gg/bigLAUNCHER) | HTML | ⭐ 3 | Multi-game launcher & idle detector |
-| [**bigger-discord**](https://github.com/bigTEAM-gg/bigger-discord) | JavaScript | ⭐ 1 | A sensible Discord bot |
+![Godot Engine](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat-square&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%23742694.svg?style=flat-square&logo=godot-engine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### Privacy & Security
+## Elsewhere
 
-| Project | Language | Stars | Description |
-|---------|----------|-------|-------------|
-| [**tor-without-tor**](https://github.com/CoolDotty/tor-without-tor) | Config | ⭐ 8 | Privacy-concerned browsing without the latency |
-| [**CounterMail-Native**](https://github.com/CoolDotty/CounterMail-Native) | Electron | ⭐ 1 | Native Electron wrapper for CounterMail |
-| [**arduino-password-safe**](https://github.com/CoolDotty/arduino-password-safe) | Arduino | - | Buttonless hardware password manager |
-
----
-
-## 📊 GitHub Activity
-
-- **64** Public Repositories
-- **25** Followers  
-- **10+** Years on GitHub (since 2015)
-- **69** Stars on [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) 🌟
-
----
-
-## 💻 Tech Stack
-
-![Godot Engine](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GDScript](https://img.shields.io/badge/GDScript-%23742694.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
----
-
-<div align="center">
-
-**🌐 [x3c.ca](https://x3c.ca) | 🎮 [bigTEAM.gg](https://bigteam.gg) | 👾 [itch.io](https://cooldotty.itch.io)**
-
-*"Building games, tools, and privacy-focused solutions from Vancouver, Canada"*
-
-</div>
+- Portfolio: [x3c.ca](https://x3c.ca)
+- Games: [cooldotty.itch.io](https://cooldotty.itch.io/)
+- Community: [gamesewer.com](https://gamesewer.com) and [bigteam.gg](https://bigteam.gg)
+- Email: [hello@x3c.ca](mailto:hello@x3c.ca)
