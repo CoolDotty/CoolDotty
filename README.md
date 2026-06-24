@@ -64,6 +64,7 @@ All playable on [itch.io](https://cooldotty.itch.io/)
 |---------|----------|-------|-------------|
 | [**qbwc-to-n8n-bridge**](https://github.com/CoolDotty/qbwc-to-n8n-bridge) | TypeScript | | Production bridge between QuickBooks Web Connector and n8n |
 | [**n8n-QuickBooks-Web-Connect**](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | TypeScript | | n8n community node for QuickBooks Desktop Web Connector integration |
+| [**n8n-nodes-xlsx-to-pdf**](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | TypeScript | | n8n community node for spreadsheet-to-PDF conversion via LibreOffice |
 | [**Tiny Stats**](https://github.com/CoolDotty/tiny-stats) | Node.js | | Streams server stats over websockets |
 | [**NeverWake**](https://github.com/CoolDotty/NeverWake) | Batchfile | ⭐ 13 | Stop Windows from randomly waking your laptop |
 | [**bigLAUNCHER**](https://github.com/bigTEAM-gg/bigLAUNCHER) | HTML | ⭐ 3 | Multi-game launcher & idle detector |
