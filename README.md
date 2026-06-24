@@ -1,6 +1,6 @@
 <div align="center">
 
-![Dot Phillips / CoolDotty](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dot%20Phillips&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Games%20%7C%20Godot%20Tools%20%7C%20Automation%20%7C%20Community&descAlignY=68&descAlign=50)
+![Dot Phillips / CoolDotty](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:7c3aed,100:06b6d4&text=CoolDotty&fontSize=72&fontColor=f8fafc&animation=fadeIn&stroke=22d3ee&strokeWidth=1&desc=Games%20%2B%20Godot%20Tools%20%2B%20Automation%20%2B%20Community&descSize=18&descAlignY=68)
 
 [![Portfolio](https://img.shields.io/badge/x3c.ca-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://x3c.ca)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://cooldotty.itch.io/)
