@@ -26,6 +26,7 @@ I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](http
 | --- | --- | --- |
 | [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | GPU-accelerated sprite stacking for Godot, also listed in the [Godot Asset Library](https://godotassetlibrary.com/asset/X9HvCD/shader-stacker). | Godot, GDScript |
 | [Date or Mate](https://cooldotty.itch.io/date-or-mate) | A chess dating sim made for [Global Game Jam 2026](https://globalgamejam.org/games/2026/date-or-mate-4). | Godot, HTML5 |
+| [Voice Garden](https://github.com/CoolDotty/voice-training-ui) | Voice feminization training tool that analyzes recordings and tracks useful voice metrics. | React, TypeScript, Python, Praat |
 | [Friends vs Friends Deck Builder](https://friendsvsfriends.help/) | Browser deck builder for the card-based arena shooter Friends vs Friends. | React, JavaScript |
 | [GameSewer.com](https://gamesewer.com) | Vancouver indie game showcase and community site I organize. | Astro |
 | [n8n QuickBooks Web Connector](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | Community node for connecting QuickBooks Desktop Web Connector workflows to n8n. | TypeScript, n8n |
