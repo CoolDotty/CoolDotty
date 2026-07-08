@@ -9,28 +9,40 @@
 
 </div>
 
-I make videogames, Godot tools, web apps, and practical automation software.
+I build web apps, Godot tools, games, automation systems, and self-hosted utilities.
 
-I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](https://gamesewer.com), and tend to ship things that are either playable, useful, or a little strange.
+I'm strongest where product, UX, infrastructure, and creative technology overlap: turning messy goals into usable software, shipping the first real version, then tightening the system once people use it.
+
+I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](https://gamesewer.com), and tend to ship things that are playable, useful, or a little strange.
 
 ## Current Focus
 
+- Building practical automation around n8n, QuickBooks Desktop, PDFs, spreadsheets, and agentic testing loops.
+- Maintaining Godot tools and AI-assistant integrations for creative coding workflows.
+- Shipping web apps, self-hosted utilities, and local-first experiments.
 - Building small games and game-jam experiments in Godot.
 - Organizing Vancouver indie game community projects through [Game Sewer](https://gamesewer.com).
-- Maintaining tools for game developers, browser communities, and local workflow automation.
-- Turning awkward integrations into usable software, especially around n8n, QuickBooks Desktop, spreadsheets, and self-hosted utilities.
 
 ## Featured Work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [x3c.ca](https://x3c.ca) | Personal portfolio with live server stats, WebSockets, and realtime visual/system experiments. | Astro, React, WebSockets |
 | [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | GPU-accelerated sprite stacking for Godot, also listed in the [Godot Asset Library](https://godotassetlibrary.com/asset/X9HvCD/shader-stacker). | Godot, GDScript |
-| [Date or Mate](https://cooldotty.itch.io/date-or-mate) | A chess dating sim made for [Global Game Jam 2026](https://globalgamejam.org/games/2026/date-or-mate-4). | Godot, HTML5 |
-| [Voice Garden](https://github.com/CoolDotty/voice-training-ui) | Fork that ports it to WASM | React, TypeScript, Python, Praat |
+| [Godot MCP](https://github.com/CoolDotty/godot-mcp-cli) | Pure Godot addon that exposes editor/runtime tools to AI assistants over MCP. | Godot, GDScript, MCP |
+| Bonchaz Order Agent | Client automation that parses unpredictable order emails and attachments, matches customers/items in QuickBooks Desktop, and sends a daily review email. | n8n, QuickBooks Desktop, Gemini/Gemma, Codex |
 | [Friends vs Friends Deck Builder](https://friendsvsfriends.help/) | Browser deck builder for the card-based arena shooter Friends vs Friends. | React, JavaScript |
-| [GameSewer.com](https://gamesewer.com) | Vancouver indie game showcase and community site I organize. | Astro |
 | [n8n QuickBooks Web Connector](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | Community node for connecting QuickBooks Desktop Web Connector workflows to n8n. | TypeScript, n8n |
 | [n8n XLSX to PDF](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | Converts spreadsheet binary attachments to PDFs through LibreOffice inside n8n. | TypeScript, LibreOffice |
+| [Date or Mate](https://cooldotty.itch.io/date-or-mate) | A chess dating sim made for [Global Game Jam 2026](https://globalgamejam.org/games/2026/date-or-mate-4). | Godot, HTML5 |
+| [GameSewer.com](https://gamesewer.com) | Vancouver indie game showcase and community site I organize. | Astro |
+
+## Work Context
+
+- Built a full n8n/QuickBooks Desktop integration for Bonchaz Bakery, including a custom QBWC plugin, mixed-format order parsing, vision-assisted extraction, catalog matching, and a daily review email.
+- Built product features for [vvd](https://vvd.world), a modern storytelling and worldbuilding toolkit, using Next.js, Supabase, Claude Code, and MCP-heavy cloud development workflows.
+- Led frontend and design-system work for TGS/Pepper.gg after starting as a full-stack developer on a small TypeScript, GraphQL, PostgreSQL, AWS, React, and Storybook team.
+- Worked on [Insights.gg](https://insights.gg) product UI and early OpenCV esports gameplay-analysis demos for VOD review, timestamped feedback, annotations, and kill-feed/stat experiments.
 
 ## Playable Things
 
@@ -49,6 +61,10 @@ I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](http
 | Project | Use |
 | --- | --- |
 | [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | Sprite-stacking toolkit for Godot. |
+| [Godot MCP](https://github.com/CoolDotty/godot-mcp-cli) | Pure Godot addon for MCP-powered editor/runtime automation. |
+| [n8n QuickBooks Web Connector](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | QuickBooks Desktop Web Connector integration for n8n. |
+| [n8n XLSX to PDF](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | Spreadsheet-to-PDF conversion node for n8n using LibreOffice headless. |
+| [Voice Garden](https://github.com/CoolDotty/voice-training-ui) | WASM/browser-focused fork of a voice training UI. |
 | [FollowParent](https://github.com/CoolDotty/FollowParent) | Godot node that tweens inherited transforms. |
 | [NeverWake](https://github.com/CoolDotty/NeverWake) | Stops Windows laptops from waking themselves unexpectedly. |
 | [tor-without-tor](https://github.com/CoolDotty/tor-without-tor) | Privacy-concerned browser configuration without Tor latency. |
@@ -69,7 +85,10 @@ I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](http
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ## Elsewhere
