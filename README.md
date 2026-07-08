@@ -30,7 +30,6 @@ I'm the co-director of [bigTEAM](https://bigteam.gg), organize [Game Sewer](http
 | [x3c.ca](https://x3c.ca) | Personal portfolio with live server stats, WebSockets, and realtime visual/system experiments. | Astro, React, WebSockets |
 | [Shader-Stacker](https://github.com/CoolDotty/Shader-Stacker) | GPU-accelerated sprite stacking for Godot, also listed in the [Godot Asset Library](https://godotassetlibrary.com/asset/X9HvCD/shader-stacker). | Godot, GDScript |
 | [Godot MCP](https://github.com/CoolDotty/godot-mcp-cli) | Pure Godot addon that exposes editor/runtime tools to AI assistants over MCP. | Godot, GDScript, MCP |
-| Bonchaz Order Agent | Client automation that parses unpredictable order emails and attachments, matches customers/items in QuickBooks Desktop, and sends a daily review email. | n8n, QuickBooks Desktop, Gemini/Gemma, Codex |
 | [Friends vs Friends Deck Builder](https://friendsvsfriends.help/) | Browser deck builder for the card-based arena shooter Friends vs Friends. | React, JavaScript |
 | [n8n QuickBooks Web Connector](https://github.com/CoolDotty/n8n-QuickBooks-Web-Connect) | Community node for connecting QuickBooks Desktop Web Connector workflows to n8n. | TypeScript, n8n |
 | [n8n XLSX to PDF](https://github.com/CoolDotty/n8n-xlsx-to-pdf) | Converts spreadsheet binary attachments to PDFs through LibreOffice inside n8n. | TypeScript, LibreOffice |
